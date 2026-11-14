@@ -1,0 +1,6 @@
+kode_buku,nama_buku,stok
+A-001,Hujan Kemarin,32
+A-002,Kebangkitan Sekte Gunung Hua,4
+B-001,Data Structure & Algorithm 2nd Edition,79
+B-002,Artificial Intelligence for Dummies,14
+B-003,Hundred Pages of Machine Learning,35

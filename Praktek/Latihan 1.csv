@@ -1,0 +1,106 @@
+Student_ID,Nama_Lengkap,Email,Kota_Asal,Jenis_Kelamin,Nilai_Ujian_Python,Nilai_Ujian_DataMining,Status_Keaktifan,Nomor_Telepon,Total_Pembayaran,Skor_Kehadiran
+STD001,Dewi Santoso,dewi1@gmail.com,Yogya,Male,75,69,lunas,abc12345,1500000,56%
+STD002,Siska Aminah,siska2@gmail.com,Semarang,Female,62,56,Lunas,081341227216,1500000,82%
+STD003,Wati Santoso,wati3@gmail.com,Semarang,P,94,81,Aktif,081370291817,1500000,87%
+STD004,Bagas Ahmad,bagas4@gmail.com,Jakarta,L,70,82,LUNAS,081930868105,1500000,63%
+STD005,Rudi   aminah,rudi5@gmail.com,Surakarta,Female,66,77,Non-Aktif,081991030736,1500000,66%
+STD006,Siti Rahayu,siti6@gmail.com,SKA,Laki-laki,67,79,Aktif,081284093639,1500000,68%
+STD007,  WATI Susanto ,wati7@gmail.com,Jakarta,Male,96,67,,081216150444,1500000,92%
+STD008,Nia Ahmad,nia8@gmail.com,Solo,L,74,,Lunas,+6281547308985,1500000,79%
+STD009,Tini Prasetyo,tini9@gmail.com,Solo,Male,73,97,Aktif,,1500000,67%
+STD010,Eko   putri,eko10@gmail.com,Yogya,P,94,70,Non-Aktif,081372043515,1.500.000,74%
+STD011,Bagas Susanto,bagas11@gmail.com,Yogya,Perempuan,999,90,lunas,abc12345,1500000,70%
+STD012,Siti Lestari,siti12@gmail.com,Jakarta,L,80,80,Aktif,INVALID_PHONE,1500000,67%
+STD013,Eko Lestari,eko13mail.com,Semarang,Perempuan,80,68,,+6281563100814,1500000,91%
+STD014,  JOKO Prasetyo ,joko14@gmail.com,Solo,P,75,90,Pending,081988461803,-500000,77%
+STD005,Rudi   aminah,rudi5@gmail.com,Surakarta,Female,66,77,Non-Aktif,081991030736,1500000,66%
+STD016,Siti Utami,siti16@gmail.com,Surakarta,P,100,,lunas,abc12345,1500000,
+STD017,Fitri Putri,fitri17@gmail.com,Surakarta,Female,N/A,79,Pending,+6281581016525,1500000,66%
+STD018,Siska Utami,siska18@gmail.com,Surakarta,Perempuan,67,98,Aktif,,1500000,84%
+STD019,Bagas Ahmad,,Yogya,Male,67,73,Belum Lunas,081370897765,1500000,50%
+STD020,Bagas   kurniawan,bagas20@gmail.com,Jakarta,P,92,61,Non-Aktif,abc12345,1.500.000,69%
+STD021,  HENDRA Putri ,hendra21@gmail.com,surakarta,P,83,65,Aktif,081781182864,1500000,50%
+STD022,Wati Wijaya,wati22@gmail.com,SKA,L,999,62,LUNAS,081942138745,1500000,53%
+STD023,Nia Susanto,nia23@gmail.com,Semarang,L,,60,,+6281519289546,1500000,98%
+STD024,Siska Ahmad,siska24@gmail.com,surakarta,P,90,,Aktif,INVALID_PHONE,1500000,85%
+STD025,Andi   hidayat,andi25@gmail.com,Semarang,,98,82,Non-Aktif,081382383095,99999999,98%
+STD026,Fikri Rahayu,fikri26mail.com,Solo,Female,83,83,Pending,+6281526240908,1500000,65%
+STD027,Nia Aminah,nia27@gmail.com,Solo,L,97,90,Aktif,,1500000,64%
+STD028,  AGUS Lestari ,agus28@gmail.com,Surakarta,L,100,58,lunas,081214216175,-500000,71%
+STD029,Eko Kurniawan,eko29@gmail.com,surakarta,Male,91,68,Pending,081386644106,1500000,86%
+STD030,Ani   lestari,ani30@gmail.com,Jakarta,Female,86,67,Aktif,081223009833,1.500.000,92%
+STD031,Fitri Wijaya,fitri31@gmail.com,SKA,Female,89,58,,abc12345,1500000,91%
+STD032,Dewi Santoso,dewi32@gmail.com,SKA,Perempuan,81,,Lunas,081335714784,1500000,
+STD033,Fikri Kurniawan,fikri33@gmail.com,SKA,P,999,82,Aktif,081347385696,1500000,79%
+STD034,Nia Utami,nia34@gmail.com,Surakarta,Female,N/A,90,Lunas,081297529405,1500000,84%
+STD035,  BUDI Aminah ,budi35@gmail.com,Jakarta,,75,65,Non-Aktif,+6281575181648,1500000,80%
+STD036,Fikri Utami,fikri36@gmail.com,SKA,L,70,79,Aktif,INVALID_PHONE,1500000,50%
+STD037,Dhani Hidayat,dhani37@gmail.com,Jakarta,,89,73,Belum Lunas,abc12345,1500000,96%
+STD038,Siska Hermawan,,Yogya,Female,69,67,LUNAS,081317849494,1500000,87%
+STD039,Siska Santoso,siska39mail.com,Yogya,Male,63,58,Aktif,081773993471,1500000,82%
+STD040,Hendra   prasetyo,hendra40@gmail.com,Surakarta,Laki-laki,65,,Non-Aktif,081319196777,1.500.000,88%
+STD041,Eko Hermawan,eko41@gmail.com,Jakarta,P,85,62,Pending,081387701200,1500000,88%
+STD042,  SITI Putri ,siti42@gmail.com,Surakarta,Female,97,91,Aktif,081752462441,-500000,66%
+STD043,Fikri Hermawan,fikri43@gmail.com,Yogya,Male,75,71,Belum Lunas,081396637649,1500000,69%
+STD044,Joko Wijaya,joko44@gmail.com,Jakarta,L,999,55,Belum Lunas,081785563727,1500000,56%
+STD005,Rudi   aminah,rudi5@gmail.com,Surakarta,Female,66,77,Non-Aktif,081991030736,1500000,66%
+STD046,Eko Susanto,eko46@gmail.com,surakarta,Male,,73,lunas,+6281582909480,1500000,95%
+STD047,Maya Putri,maya47@gmail.com,Jakarta,Perempuan,93,55,,081750181935,1500000,92%
+STD048,Dewi Susanto,dewi48@gmail.com,surakarta,Male,67,,Aktif,INVALID_PHONE,1500000,
+STD049,  DEWI Rahayu ,dewi49@gmail.com,Semarang,P,77,73,Pending,081356020613,1500000,63%
+STD050,Bagas   kurniawan,bagas50@gmail.com,SKA,Male,63,60,Non-Aktif,abc12345,1.500.000,77%
+STD051,Bagas Santoso,bagas51@gmail.com,Surakarta,Male,N/A,63,Aktif,abc12345,1500000,66%
+STD052,Andi Rahayu,andi52mail.com,SKA,Laki-laki,87,90,Lunas,081220099059,1500000,94%
+STD053,Rian Kurniawan,rian53@gmail.com,Surakarta,,83,92,Pending,081367684996,1500000,58%
+STD054,Siti Hidayat,siti54@gmail.com,Solo,,62,77,Aktif,,1500000,63%
+STD055,Nia   hermawan,nia55@gmail.com,Surakarta,Male,999,90,Non-Aktif,+6281593303777,1500000,97%
+STD056,  RIAN Susanto ,rian56@gmail.com,surakarta,,70,,lunas,+6281513326769,-500000,61%
+STD057,Rudi Ahmad,,SKA,,75,72,Aktif,081324508349,1500000,74%
+STD058,Siti Utami,siti58@gmail.com,SKA,P,72,84,LUNAS,081940547349,1500000,64%
+STD059,Budi Hermawan,budi59@gmail.com,surakarta,Female,81,72,Lunas,081957130035,1500000,91%
+STD060,Hendra   haikal,hendra60@gmail.com,Yogya,,94,76,Aktif,INVALID_PHONE,1.500.000,51%
+STD061,Dewi Susanto,dewi61@gmail.com,Solo,P,97,71,Lunas,081290070438,1500000,77%
+STD062,Tini Rahayu,tini62@gmail.com,Jakarta,Male,87,93,Pending,081261700055,1500000,86%
+STD063,  FIKRI Hidayat ,fikri63@gmail.com,Surakarta,Perempuan,87,55,Aktif,,1500000,83%
+STD064,Siska Hermawan,siska64@gmail.com,Yogya,Perempuan,72,,LUNAS,+6281519391725,1500000,
+STD065,Rudi   putri,rudi65mail.com,Solo,Perempuan,67,74,Non-Aktif,081751511484,1500000,92%
+STD066,Fitri Wijaya,fitri66@gmail.com,SKA,Perempuan,999,73,Aktif,081727084279,1500000,62%
+STD067,Fitri Hermawan,fitri67@gmail.com,SKA,Perempuan,71,94,Pending,081964502486,1500000,85%
+STD068,Budi Hidayat,budi68@gmail.com,Solo,P,N/A,82,Pending,081797873101,1500000,70%
+STD069,Joko Ramadhani,joko69@gmail.com,SKA,Perempuan,,68,Aktif,081773509974,1500000,100%
+STD070,  ANDI Hermawan ,andi70@gmail.com,Surakarta,Male,92,97,Non-Aktif,abc12345,-500000,89%
+STD071,Rudi Aminah,rudi71@gmail.com,Jakarta,,75,98,LUNAS,081336726767,1500000,59%
+STD072,Budi Santoso,budi72@gmail.com,surakarta,Female,99,,Aktif,INVALID_PHONE,1500000,99%
+STD073,Eko Ramadhani,eko73@gmail.com,SKA,Perempuan,96,67,,abc12345,1500000,74%
+STD074,Ani Haikal,ani74@gmail.com,surakarta,P,60,61,Belum Lunas,081333607110,1500000,94%
+STD075,Hendra   ramadhani,hendra75@gmail.com,Surakarta,Laki-laki,75,62,Aktif,+6281527896471,99999999,79%
+STD076,Hendra Kurniawan,,Semarang,Male,88,94,,081767276174,1500000,85%
+STD077,  JOKO Susanto ,joko77@gmail.com,surakarta,Perempuan,999,85,Belum Lunas,081943183955,1500000,90%
+STD078,Bagas Ahmad,bagas78mail.com,Jakarta,Laki-laki,91,95,Aktif,081346855845,1500000,78%
+STD079,Eko Rahayu,eko79@gmail.com,Solo,P,77,76,LUNAS,081720814950,1500000,58%
+STD080,Rian   lestari,rian80@gmail.com,SKA,Perempuan,69,,Non-Aktif,abc12345,1.500.000,
+STD081,Fikri Aminah,fikri81@gmail.com,SKA,Female,81,89,Aktif,,1500000,79%
+STD082,Fitri Santoso,fitri82@gmail.com,surakarta,,86,79,Pending,abc12345,1500000,51%
+STD083,Agus Haikal,agus83@gmail.com,SKA,L,82,74,Belum Lunas,+6281582238741,1500000,97%
+STD084,  SISKA Ahmad ,siska84@gmail.com,Semarang,P,91,69,Aktif,INVALID_PHONE,-500000,67%
+STD085,Fitri   ramadhani,fitri85@gmail.com,Surakarta,Female,N/A,76,Non-Aktif,abc12345,1500000,93%
+STD086,Dhani Rahayu,dhani86@gmail.com,surakarta,,89,63,Pending,081713619375,1500000,75%
+STD087,Agus Putri,agus87@gmail.com,Yogya,L,65,96,Aktif,+6281528213276,1500000,79%
+STD005,Rudi   aminah,rudi5@gmail.com,Surakarta,Female,66,77,Non-Aktif,081991030736,1500000,66%
+STD089,Rudi Ahmad,rudi89@gmail.com,SKA,Male,86,71,Lunas,+6281512601580,1500000,97%
+STD090,Siska   santoso,siska90@gmail.com,Solo,P,64,96,Aktif,,1.500.000,52%
+STD091,  BUDI Lestari ,budi91mail.com,surakarta,,61,94,lunas,081326941092,1500000,80%
+STD092,Dewi Putri,dewi92@gmail.com,surakarta,Female,,71,LUNAS,081391321540,1500000,88%
+STD093,Dewi Ahmad,dewi93@gmail.com,Jakarta,P,79,61,Aktif,081713446499,1500000,69%
+STD094,Agus Hermawan,agus94@gmail.com,SKA,Female,72,59,Pending,abc12345,1500000,90%
+STD095,Nia   aminah,,Yogya,,79,98,Non-Aktif,081726247735,1500000,100%
+STD096,Agus Ahmad,agus96@gmail.com,Surakarta,Male,94,,Aktif,INVALID_PHONE,1500000,
+STD097,Fitri Hermawan,fitri97@gmail.com,Solo,L,92,96,LUNAS,081266379329,1500000,81%
+STD098,  DEWI Haikal ,dewi98@gmail.com,Solo,Perempuan,89,64,Belum Lunas,081380027662,-500000,91%
+STD099,Bagas Putri,bagas99@gmail.com,Jakarta,Laki-laki,999,85,Aktif,,1500000,79%
+STD100,Fitri   utami,fitri100@gmail.com,Yogya,Laki-laki,77,75,Non-Aktif,081321631697,1.500.000,67%
+STD101,Joko Lestari,joko101@gmail.com,Jakarta,Female,96,94,,+6281555150390,1500000,51%
+STD102,Ani Utami,ani102@gmail.com,Solo,P,N/A,86,Aktif,081357623800,1500000,66%
+STD103,Rudi Hidayat,rudi103@gmail.com,Semarang,Perempuan,77,90,Lunas,081735643159,1500000,55%
+STD104,Nia Rahayu,nia104mail.com,SKA,Female,95,,lunas,abc12345,1500000,80%
+STD105,  ANI Ramadhani ,ani105@gmail.com,Jakarta,L,65,73,Aktif,081364277800,1500000,94%
